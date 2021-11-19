@@ -1,2 +1,2 @@
 # depth
-OSINT Multi-tool
+An OSINT Multi-tool project.
